@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cloud-eureka-and-gateway'
+
+include 'api-gateway'
+include 'eureka-server'
