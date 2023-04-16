@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    kubernetes:
+      leader:
+        role: world
+        config-map-name: leader
+  
